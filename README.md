@@ -1,5 +1,5 @@
 # spikeh-logo
-Used Figma to create the logo for "Spikeh"- available on the App Store
+Designed the Logo for "Spikeh"- available on the App Store (Figma)
 
 
 
